@@ -1,0 +1,10 @@
+Comandos
+Backend
+	yarn init -y em backend
+	yarn add express
+	yarn add nodemon -D
+	yarn add mongoose
+	yarn add cors
+
+Frontend:
+	yarn add axios
