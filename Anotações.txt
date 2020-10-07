@@ -8,3 +8,13 @@ Backend
 
 Frontend:
 	yarn add axios
+
+yarn global add expo-cli
+
+mobile
+	yarn add react-navigation
+	expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+	yarn add react-nativation-stack
+	yarn add @react-native-community/masked-view
+	expo install react-native-maps
+	expo install expo-location
