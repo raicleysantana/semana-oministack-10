@@ -5,6 +5,7 @@ Backend
 	yarn add nodemon -D
 	yarn add mongoose
 	yarn add cors
+	yarn add socket.io
 
 Frontend:
 	yarn add axios
@@ -18,3 +19,7 @@ mobile
 	yarn add @react-native-community/masked-view
 	expo install react-native-maps
 	expo install expo-location
+	yarn add axios
+	yarn add socket.io-client
+	
+	
