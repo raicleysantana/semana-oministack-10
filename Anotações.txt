@@ -23,4 +23,6 @@ mobile
 	yarn add axios
 	yarn add socket.io-client
 	
+
+
 	
