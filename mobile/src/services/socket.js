@@ -1,7 +1,7 @@
 import { sub } from 'react-native-reanimated';
 import socketio from 'socket.io-client';
 
-const socket = socketio('http://10.0.0.117:3333', {
+const socket = socketio('http://10.0.0.120:3333', {
     autoConnect: false,
 });
 
