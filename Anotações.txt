@@ -10,6 +10,7 @@ Backend
 Frontend:
 	yarn add axios
 
+
 yarn global add expo-cli
 
 mobile
